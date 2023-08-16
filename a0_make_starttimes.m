@@ -7,7 +7,8 @@
 % hajanisz@hawaii.edu
 % updated 11/19
 
-% HELL
+% test
+
 
 % Input eventfile
 evfile = 'NOISETC_CI/eventtimes_CItest.txt';
